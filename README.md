@@ -2,7 +2,7 @@
 - pretendo trabalhar na área de front-end
 - estou cursando no Vai na Web
 - meus contatos:
-- https://www.linkedin.com/in/pietro-silva-6b0484285/
+- https://www.linkedin.com/in/pietrosilvacs/
 - https://www.instagram.com/pisilva_devguitar/
 
 <!---
