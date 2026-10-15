@@ -8,7 +8,7 @@ Transformando ideias em experiências digitais funcionais, responsivas e acessí
 
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-Visitar-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portifolio-drab.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pietrocandido/)
-[![E-mail](https://img.shields.io/badge/E--mail-Contato-334155?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pietro.candido.work@gmail.com)
+[![E-mail](https://img.shields.io/badge/E--mail-Contato-334155?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=pietro.candido.work@gmail.com)
 
 </div>
 
@@ -67,7 +67,7 @@ Concluí a formação em **Desenvolvimento Front-end da Vai na Web (191 horas)**
 
 Estou aberto a conexões, colaborações e oportunidades em desenvolvimento web.
 
-📫 **[E-mail](mailto:pietro.candido.work@gmail.com)** · 💼 **[LinkedIn](https://www.linkedin.com/in/pietrocandido/)** · 🌐 **[Portfólio](https://my-portifolio-drab.vercel.app/)**
+📫 **[E-mail](https://mail.google.com/mail/?view=cm&fs=1&to=pietro.candido.work@gmail.com)** · 💼 **[LinkedIn](https://www.linkedin.com/in/pietrocandido/)** · 🌐 **[Portfólio](https://my-portifolio-drab.vercel.app/)**
 
 <div align="center">
 
