@@ -7,7 +7,7 @@
 Transformando ideias em experiências digitais funcionais, responsivas e acessíveis.
 
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-Visitar-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portifolio-drab.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pietrocandidocs/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pietrocandido/)
 [![E-mail](https://img.shields.io/badge/E--mail-Contato-334155?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pietro.candido.work@gmail.com)
 
 </div>
