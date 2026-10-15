@@ -1,68 +1,35 @@
-# 👨🏻‍💻 Pietro Candido 🦅
-**`Desenvolvedor FullStack`**  
+# Olá, eu sou Pietro Candido! 👋
 
- <p align="left">
-      <a href="https://github.com/pietrossantos?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/pietrossantos?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/pietrossantos?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/pietrossantos?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+### Desenvolvedor Front-end | React.js • JavaScript • HTML5 • CSS3
 
-Olá Mundo! 👋🏼  
+Sou desenvolvedor Front-end com experiência profissional na criação de interfaces web, componentes reutilizáveis e landing pages. Atuei na **Web Social**, trabalhando com **React.js, JavaScript, HTML, CSS e Styled-components**.
 
-Desde pequeno eu fui atraído pela tecnologia por diversos motivos, seja na área da exploração espacial, ou na divulgação científica, entre outras coisas. Tive um começo meio turbulento, achei que não ia conseguir, mas a persistência me ensinou que codar vai além de sintaxe, é sobre propósito. Comecei no Front-End, porém não me restringi só ao Front, estou estudando atualmente o Back-End também. Siga-me e dê uma olhada nos meus repositórios.  
+Concluí a formação de **Desenvolvimento Front-end da Vai na Web (191 horas)**, com estudos em desenvolvimento responsivo, React Hooks, Next.js, Sass, APIs REST e Git.
 
-Desde já, agradeço pela sua presença nesse perfil do github! Um abraço. 🤗
+Atualmente, busco oportunidades em **desenvolvimento Front-end e desenvolvimento web**. Também tenho interesse em IA generativa e soluções digitais.
 
-  
-## 🛠⚙ Tecnologias e ferramentas  
+📍 Rio de Janeiro, Brasil
 
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />          
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original.svg" />          
-<br /> 
-<br /> 
-<br />
-<br />  
-<br />
-  
+## 🛠️ Tecnologias e ferramentas
 
-## 📊 Estatísticas  
+**Front-end:** JavaScript, React.js, HTML5, CSS3, Styled-components, Sass e responsividade  
+**Ferramentas e estudos:** Git, GitHub, Vite, Next.js, consumo de APIs REST e Python básico
 
+## 💻 Projetos e estudos
 
+Estou revisando e documentando meus repositórios para facilitar a navegação e demonstrar minhas habilidades.
 
- <table border="0">
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pietrossantos&theme=radical" height="200" width="700"/>
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pietrossantos&theme=radical" height="200" />
-    </td>
-  </tr>
-</table>
+- [my-portifolio](https://github.com/pietrossantos/my-portifolio) — projeto de portfólio em React/Vite.
+- [Enter-Profile](https://github.com/pietrossantos/Enter-Profile) — projeto de interface web.
+- [JS_Study](https://github.com/pietrossantos/JS_Study) — exercícios e estudos de JavaScript.
+- [python_study](https://github.com/pietrossantos/python_study) — estudos de Python.
 
-## 🌐 Vamos nos conectar!
+> Alguns projetos são exercícios ou trabalhos em evolução. Consulte cada repositório para ver o código e o estágio atual.
 
+## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pietrocandidocs/)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/c.s.pietro/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pietrossantos)
+- **E-mail profissional:** [pietro.candido.work@gmail.com](mailto:pietro.candido.work@gmail.com)
+- **LinkedIn:** [Meu perfil](https://www.linkedin.com/in/pietrocandidocs/)
+- **GitHub:** [@pietrossantos](https://github.com/pietrossantos)
 
-
-
- 
-
-
+Obrigado pela visita! 🚀
