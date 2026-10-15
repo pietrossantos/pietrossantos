@@ -67,7 +67,7 @@ Concluí a formação em **Desenvolvimento Front-end da Vai na Web (191 horas)**
 
 Estou aberto a conexões, colaborações e oportunidades em desenvolvimento web.
 
-📫 **[E-mail](mailto:pietro.candido.work@gmail.com)** · 💼 **[LinkedIn](https://www.linkedin.com/in/pietrocandidocs/)** · 🌐 **[Portfólio](https://my-portifolio-drab.vercel.app/)**
+📫 **[E-mail](mailto:pietro.candido.work@gmail.com)** · 💼 **[LinkedIn](https://www.linkedin.com/in/pietrocandido/)** · 🌐 **[Portfólio](https://my-portifolio-drab.vercel.app/)**
 
 <div align="center">
 
